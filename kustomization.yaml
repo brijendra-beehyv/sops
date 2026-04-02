@@ -1,0 +1,3 @@
+resources:
+  - ./dep/
+  - ./enc/myapp.secret.yaml
